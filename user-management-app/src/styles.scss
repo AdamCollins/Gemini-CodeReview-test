@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+
+/* Global styles */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+/* Add some spacing between form fields */
+.mat-form-field {
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+/* Add some spacing between buttons */
+button {
+  margin-right: 8px;
+}
